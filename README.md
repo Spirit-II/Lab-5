@@ -14,6 +14,7 @@
 ### Тестирование
 
 Скриншоты результата работы программы 
+![Скрин](https://github.com/Spirit-II/Lab-5/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2023-03-2026%20154201.jpg)
 
 ## Задание 2. Списки
 
@@ -28,6 +29,8 @@
 ### Тестирование
 
 Скриншоты результата работы программы
+![Скрин](https://github.com/Spirit-II/Lab-5/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2023-03-2026%20154444.jpg)
+![Скрин](https://github.com/Spirit-II/Lab-5/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2023-03-2026%20154456.jpg)
 
 ## Задание 3. Решить задачу на обработку списка
 
@@ -43,6 +46,8 @@
 ### Тестирование
 
 Скриншоты результата работы программы
+![Скрин](https://github.com/Spirit-II/Lab-5/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2023-03-2026%20154531.jpg)
+![Скрин](https://github.com/Spirit-II/Lab-5/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2023-03-2026%20154626.jpg)
 
 ## Задание 4. Решить логическую задачу
 
@@ -64,3 +69,6 @@
 ### Тестирование
 
 Скриншоты результата работы программы
+![Скрин](https://github.com/Spirit-II/Lab-5/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2023-03-2026%20154646.jpg)
+![Скрин](https://github.com/Spirit-II/Lab-5/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2023-03-2026%20154705.jpg)
+![Скрин](https://github.com/Spirit-II/Lab-5/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2023-03-2026%20154715.jpg)
